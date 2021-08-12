@@ -28,10 +28,6 @@ All of the projects requires Python 2.7 or 3 I have Used python 3.0. The followi
 <li> Glove
 <li> word2vec
 
-# Datasets are not included to this project due to size.
-
-The Yelp dataset is a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes. Available in both JSON and SQL files, use it to teach students about databases, to learn NLP, or for sample production data while you learn how to make mobile apps.
-
 # Contributors
 Karan Sood
 
